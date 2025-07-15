@@ -1,2 +1,2 @@
-1. 註冊時不檢查網路 
-2. 沒註冊也發log, cid為"unregistered"
+1. 休眠設定false時不reset 
+2. play record request fail不發log
