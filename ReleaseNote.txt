@@ -1,2 +1,1 @@
-1. 休眠設定false時不reset 
-2. play record request fail不發log
+1. 全家環境以外不發playrecord
