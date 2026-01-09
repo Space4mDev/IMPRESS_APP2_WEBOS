@@ -1,4 +1,5 @@
-1. webOS9.0適配
-2. 修正webOS影片輪播框黑畫面
-3. 關閉dpm
-4. proxy service 修正
+1. SmartQueue版
+2. watch dog
+3. 更新idcap api
+4. 新增遠端功能
+5. 支援UH5Q
